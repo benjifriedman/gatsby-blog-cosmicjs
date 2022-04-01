@@ -2,9 +2,9 @@
   "name": "gatsby-blog-cosmicjs",
   "description": "Gatsby Blog Cosmic JS",
   "version": "2.0.0",
-  "author": "Jazib Sawar <jazibsawar@gmail.com>",
+  "author": "Benji Friedman <benjifriedman@gmail.com>",
   "bugs": {
-    "url": "https://github.com/jazibsawar/gatsby-blog-cosmicjs/issues"
+    "url": "https://github.com/benjifriedman"
   },
   "dependencies": {
     "gatsby": "^2.20.17",
