@@ -6,3 +6,6 @@ public
 .intermediate-representation/
 .cache/
 yarn.lock
+
+# Local Netlify folder
+.netlify
