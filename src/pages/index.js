@@ -7,6 +7,7 @@ import { graphql } from 'gatsby'
 import Bio from '../components/Bio'
 import Layout from '../components/layout'
 import { rhythm } from '../utils/typography'
+import * as styles from "./main.css"
 
 class BlogIndex extends React.Component {
   render() {
